@@ -3,7 +3,8 @@
 
 <img src="https://res.cloudinary.com/dt0v5nlzm/image/upload/v1643520199/upload_xdwtng.png" align="center">
 </p>
-
+<br/>
+<br/>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
@@ -32,9 +33,9 @@ I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</st
    </samp> 
    </p> -->
  
-  <p align="center">
+<!--   <p align="center">
     <img src="https://res.cloudinary.com/dt0v5nlzm/image/upload/v1643520225/crop_fddxhs.jpg" alt="mehul-chauhan" /> 
-  </p>          
+  </p>           -->
  
 </p>
 
