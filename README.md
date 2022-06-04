@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mehul Chauhan </h1>
+<h1 align="center">Hi ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mehul Chauhan </h1>
 <p align="center">
 
 <img src="https://res.cloudinary.com/dt0v5nlzm/image/upload/v1643520199/upload_xdwtng.png" align="center">
