@@ -8,8 +8,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Pre final year student at Chitkara University currently undertaking my Bachelors in Computer Science and Engineering. 
-I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</strong> and a <strong>tech enthusiast!</strong> 
+A Passionate full-stack developer with a Bachelor's in Computer Science from Chitkara University. Proficient in a range of technologies including JavaScript, React.js, React Native, Flutter (Dart), Docker, MongoDB, MySQL, Linux, AWS, and C++. Specialized in crafting dynamic websites, robust server-side applications, and intuitive mobile experiences.<strong>Let's turn ideas into impeccable code.</strong>
   </samp><br><br>
   <samp>
    Looking for Open-Source Projects to collaborate on.  Apart from programming, I like gaming and music.
@@ -17,26 +16,6 @@ I am <strong>C++ Programmer</strong>, <strong>Fullstack Javascript Developer</st
    </samp>  
    <br/>
   <br/>
-<!--   <samp>
-    Currently contributing to [MetaGame](https://github.com/MetaFam/TheGame) and other open source organisations. 
-  </samp> -->
-<!--   <p align="left" >
- 
-  <h2 align="center" >Hackathons :- </h2> 
-   <samp>
-  <ul>
-    <li>Won First Position at CIS Hackathon organised by incubateIND and Github 2021<li/>
-     My team was amongst Top 6 teams from the total of 1878 registered teams in e-Yantra Fighting COVID-19 Hackathon orgainsed by IIT-Bombay 2021 <br/>
-    <li>Awarded Special Mention in IGDTUW Hackathon 2020</li> <br/>
-    <li>Participated Solo in BUIDL IT 2021 by Polygon and Won in two Categories :- 2nd at Moralis($3500) and Filecoin Prize Pool($250) among 5000 participants </li>
-   <ul/>
-   </samp> 
-   </p> -->
- 
-<!--   <p align="center">
-    <img src="https://res.cloudinary.com/dt0v5nlzm/image/upload/v1643520225/crop_fddxhs.jpg" alt="mehul-chauhan" /> 
-  </p>           -->
- 
 </p>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
